@@ -1,0 +1,20 @@
+
+
+.object {
+  position: absolute;
+  transition: all 5s ease-in-out;
+}
+
+.plane1 {
+  top: 80%;
+  right: 0%;
+}
+
+/*.plane2 {
+  top: 50%;
+  left: 0%;
+}*/
+
+#axis:hover .move{
+  transform: translate(600px,-700px) rotate(15deg) scale(1.5);
+}
