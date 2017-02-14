@@ -1,20 +1,33 @@
-
-
 .object {
   position: absolute;
-  transition: all 5s ease-in-out;
+  transition: all 7s ease-in-out;
 }
 
-.plane1 {
+/*.plane1 {
   top: 80%;
   right: 0%;
 }
 
-/*.plane2 {
+.plane2 {
   top: 50%;
   left: 0%;
 }*/
 
+.plane3 {
+  top: 80%;
+  right: 0%;
+}
+
+/*.plane4 {
+  top: 80%;
+  right: 0%;
+}
+
+.plane5 {
+  top: 80%;
+  right: 0%;
+}*/
+
 #axis:hover .move{
-  transform: translate(600px,-700px) rotate(15deg) scale(1.5);
+  transform: translate(600px,-1200px) rotate(13deg) scale(1.5);
 }
