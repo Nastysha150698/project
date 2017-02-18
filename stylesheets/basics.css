@@ -1,4 +1,67 @@
-.landing {
-  background-color: blue;
-  background-image: url(../images/cloud1.png);
+.landingWrapper {
+  overflow-y: hidden;
+}
+
+.mainSection {
+  position: relative;
+  width: 1440px;
+  height: 800px;
+  overflow: hidden;
+}
+
+.mainSection.center,
+.mainSection.right {
+  color: white;
+  background-color: #3399ff;
+}
+
+.mainSection.left {
+  background-color: white;
+}
+
+.mainSection {
+  font-family: 'Neucha', cursive;
+  font-weight: bold;
+}
+
+.mainSection.center h2 {
+  font-size: 80px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+
+.mainSection.left h2,
+.mainSection.right h2 {
+  font-size: 40px;
+}
+
+.mainSection.left p,
+.mainSection.right p {
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.text1 {
+  margin-top: 200px;
+  margin-left: 150px;
+  width: 567px;
+}
+
+.text2 {
+  margin-top: 200px;
+  margin-left: 564px;
+  width: 705px;
+}
+
+.text3 {
+  margin-top: 200px;
+  margin-left: 150px;
+  width: 566px;
+}
+
+.text4 {
+  margin-top: 200px;
+  margin-left: 564px;
+  width: 705px;
 }
