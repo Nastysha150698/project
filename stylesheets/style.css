@@ -2,5 +2,7 @@
 
 @import "motion.css";
 @import "basics.css";
+@import "onepage-scroll.css";
 
 @import url('https://fonts.googleapis.com/css?family=Neucha');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');

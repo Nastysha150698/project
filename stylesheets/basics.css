@@ -19,9 +19,13 @@
   background-color: white;
 }
 
-.mainSection {
+.mainSection h2 {
   font-family: 'Neucha', cursive;
   font-weight: bold;
+}
+
+.mainSection p {
+  font-family: 'PT Sans', sans-serif;
 }
 
 .mainSection.center h2 {
@@ -40,28 +44,54 @@
 .mainSection.right p {
   font-size: 20px;
   line-height: 25px;
+  margin-top: 40px;
 }
 
 .text1 {
+  text-align: justify;
   margin-top: 200px;
-  margin-left: 150px;
-  width: 567px;
+  margin-left: 130px;
+  width: 645px;
 }
 
 .text2 {
+  text-align: justify;
   margin-top: 200px;
-  margin-left: 564px;
-  width: 705px;
+  margin-left: 550px;
+  width: 700px;
 }
 
 .text3 {
+  text-align: justify;
   margin-top: 200px;
-  margin-left: 150px;
-  width: 566px;
+  margin-left: 130px;
+  width: 645px;
 }
 
 .text4 {
+  text-align: justify;
   margin-top: 200px;
-  margin-left: 564px;
-  width: 705px;
+  margin-left: 550px;
+  width: 700px;
+}
+
+.text5 {
+  text-align: justify;
+  margin-top: 200px;
+  margin-left: 130px;
+  width: 645px;
+}
+
+.text6 {
+  text-align: justify;
+  margin-top: 200px;
+  margin-left: 550px;
+  width: 700px;
+}
+
+.text7 {
+  text-align: justify;
+  margin-top: 200px;
+  margin-left: 130px;
+  width: 645px;
 }
