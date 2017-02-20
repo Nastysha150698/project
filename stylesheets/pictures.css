@@ -1,0 +1,62 @@
+#pic1 {
+  position: relative;
+  top: -450px;
+  left: 1000px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/1.svg);
+}
+
+#pic2 {
+  position: relative;
+  top: -565px;
+  left: 135px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/2.svg);
+}
+
+#pic3 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/3.svg);
+}
+
+#pic4 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/4.svg);
+}
+
+#pic5 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/5.svg);
+}
+
+#pic6 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/6.svg);
+}
+
+#pic7 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/7.svg);
+}

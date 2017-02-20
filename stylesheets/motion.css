@@ -1,13 +1,14 @@
-.object {
-  position: absolute;
-  transition: all 11s ease-in-out;
-}
-
-.plane3 {
-  top: 80%;
+.one {
+  position: relative;
+  animation: oneanimation ease-in-out 15s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+  top: 25%;
   right: 0%;
 }
 
-#axis:hover .move {
-  transform: translate(600px,-1200px) rotate(13deg) scale(1.5);
+@keyframes oneanimation {
+  0%  {transform: translate(-500px,500px);}
+  50% {transform: translate(500px,-500px) rotate(-13deg) scale(1.5);}
+  100% {transform: translate(-300px,300px) rotate(13deg) scale(1.5);}
 }
