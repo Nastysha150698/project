@@ -1,11 +1,11 @@
-.landingWrapper {
+.landing {
   overflow-y: hidden;
 }
 
 .mainSection {
   position: relative;
-  width: 1440px;
-  height: 800px;
+  width: 100%;
+  height: 1000px;
   overflow: hidden;
 }
 
@@ -31,7 +31,7 @@
 .mainSection.center h2 {
   font-size: 80px;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 369px;
 }
 
 
@@ -49,49 +49,77 @@
 
 .text1 {
   text-align: justify;
-  margin-top: 200px;
+  margin-top: 18%;
   margin-left: 130px;
-  width: 645px;
+  width: 650px;
 }
 
 .text2 {
   text-align: justify;
-  margin-top: 200px;
-  margin-left: 550px;
-  width: 700px;
+  margin-top: 13%;
+  margin-left: 53%;
+  width: 711px;
 }
 
 .text3 {
   text-align: justify;
-  margin-top: 200px;
+  margin-top: 18%;
   margin-left: 130px;
-  width: 645px;
+  width: 650px;
 }
 
 .text4 {
   text-align: justify;
-  margin-top: 200px;
-  margin-left: 550px;
-  width: 700px;
+  margin-top: 18%;
+  margin-left: 53%;
+  width: 711px;
 }
 
 .text5 {
   text-align: justify;
-  margin-top: 200px;
+  margin-top: 18%;
   margin-left: 130px;
-  width: 645px;
+  width: 650px;
 }
 
 .text6 {
   text-align: justify;
-  margin-top: 200px;
-  margin-left: 550px;
-  width: 700px;
+  margin-top: 18%;
+  margin-left: 53%;
+  width: 711px;
 }
 
 .text7 {
   text-align: justify;
-  margin-top: 200px;
+  margin-top: 18%;
   margin-left: 130px;
-  width: 645px;
+  width: 650px;
+}
+
+
+#pic1 {
+  position: relative;
+  top: -450px;
+  left: 1000px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/1.svg);
+}
+
+#pic2 {
+  position: relative;
+  top: -565px;
+  left: 135px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/2.svg);
+}
+
+#pic3 {
+  position: relative;
+  top: -491px;
+  left: 965px;
+  width: 756px;
+  height: 730px;
+  background-image: url(../images/3.svg);
 }
