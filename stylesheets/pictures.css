@@ -1,10 +1,11 @@
-#pic1 {
+/*#pic1 {
   position: relative;
   top: -450px;
   left: 1000px;
   width: 756px;
   height: 730px;
   background-image: url(../images/1.svg);
+  background-repeat: no-repeat;
 }
 
 #pic2 {
@@ -14,6 +15,7 @@
   width: 756px;
   height: 730px;
   background-image: url(../images/2.svg);
+  background-repeat: no-repeat;
 }
 
 #pic3 {
@@ -23,40 +25,45 @@
   width: 756px;
   height: 730px;
   background-image: url(../images/3.svg);
+  background-repeat: no-repeat;
 }
 
 #pic4 {
   position: relative;
-  top: -491px;
-  left: 965px;
-  width: 756px;
-  height: 730px;
+  top: -440px;
+  left: 240px;
+  width: 744px;
+  height: 487px;
   background-image: url(../images/4.svg);
+  background-repeat: no-repeat;
 }
 
 #pic5 {
   position: relative;
-  top: -491px;
-  left: 965px;
-  width: 756px;
-  height: 730px;
+  top: -350px;
+  left: 1038px;
+  width: 583px;
+  height: 709px;
   background-image: url(../images/5.svg);
+  background-repeat: no-repeat;
 }
 
 #pic6 {
   position: relative;
-  top: -491px;
-  left: 965px;
-  width: 756px;
-  height: 730px;
+  top: -330px;
+  left: 333px;
+  width: 741px;
+  height: 376px;
   background-image: url(../images/6.svg);
+  background-repeat: no-repeat;
 }
 
 #pic7 {
   position: relative;
-  top: -491px;
-  left: 965px;
+  top: -410px;
+  left: 1045px;
   width: 756px;
-  height: 730px;
+  height: 576px;
   background-image: url(../images/7.svg);
-}
+  background-repeat: no-repeat;
+}*/

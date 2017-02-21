@@ -1,14 +1,124 @@
 .one {
   position: relative;
-  animation: oneanimation ease-in-out 15s;
+  animation: oneanimation ease 15s;
   animation-iteration-count: infinite;
   transform-origin: 50% 100%;
-  top: 25%;
-  right: 0%;
 }
 
 @keyframes oneanimation {
-  0%  {transform: translate(-500px,500px);}
-  50% {transform: translate(500px,-500px) rotate(-13deg) scale(1.5);}
-  100% {transform: translate(-300px,300px) rotate(13deg) scale(1.5);}
+  0%  {transform: translate(-800px,400px);}
+  50% {transform: translate(800px,-1100px) rotate(-13deg) scale(1.5);}
+  100% {transform: translate(-400px,400px) rotate(23deg) scale(1.5);}
+}
+
+.pic1 {
+  position: relative;
+  top: -450px;
+  right: -1000px;
+  height: 700px;
+  width: 700px;
+  animation: picanimation1 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation1 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic2 {
+  position: relative;
+  top: -550px;
+  right: -150px;
+  height: 700px;
+  width: 700px;
+  animation: picanimation2 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation2 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic3 {
+  position: relative;
+  top: -450px;
+  right: -1000px;
+  height: 700px;
+  width: 700px;
+  animation: picanimation3 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation3 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic4 {
+  position: relative;
+  top: -450px;
+  right: -270px;
+  height: 400px;
+  width: 400px;
+  animation: picanimation4 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation4 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic5 {
+  position: relative;
+  top: -300px;
+  right: -1100px;
+  height: 500px;
+  width: 500px;
+  animation: picanimation5 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation5 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic6 {
+  position: relative;
+  top: -350px;
+  right: -270px;
+  height: 400px;
+  width: 400px;
+  animation: picanimation6 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation6 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
+}
+
+.pic7 {
+  position: relative;
+  top: -350px;
+  right: -1100px;
+  height: 500px;
+  width: 500px;
+  animation: picanimation7 ease .8s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes picanimation7 {
+  0%  {transform: translate(0px,0px);}
+  50% {transform: rotate(-2deg);}
 }
