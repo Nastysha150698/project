@@ -11,6 +11,98 @@
   100% {transform: translate(-400px,400px) rotate(23deg) scale(1.5);}
 }
 
+.sky1 {
+  position: relative;
+  animation: skyanimation1 ease 20s;
+  animation-iteration-count: infinite;
+  width: 150px;
+  height: 150px;
+}
+
+@keyframes skyanimation1 {
+  0%  {transform: translate(0px,0px);}
+  25% {transform: translate(1500px,-700px) rotate(-13deg);}
+}
+
+.sky11 {
+  position: relative;
+  animation: skyanimation11 ease 20s;
+  animation-iteration-count: infinite;
+  width: 150px;
+  height: 150px;
+}
+
+@keyframes skyanimation11 {
+  0%  {transform: translate(1900px,-700px);}
+  100% {transform: translate(-150px,-1000px);}
+}
+
+.sky2 {
+  position: relative;
+  animation: skyanimation2 ease 10s;
+  animation-iteration-count: infinite;
+  width: 150px;
+  height: 150px;
+}
+
+@keyframes skyanimation2 {
+  0%  {transform: translate(1900px,-400px);}
+  100% {transform: translate(-150px,-700px);}
+}
+
+.sky22 {
+  position: relative;
+  animation: skyanimation22 ease 10s;
+  animation-iteration-count: infinite;
+  width: 200px;
+  height: 200px;
+}
+
+@keyframes skyanimation22 {
+  30%  {transform: translate(1900px,-600px);}
+  100% {transform: translate(-200px,-1100px);}
+}
+
+.sky3 {
+  position: relative;
+  animation: skyanimation3 ease 10s;
+  animation-iteration-count: infinite;
+  width: 100px;
+  height: 100px;
+}
+
+@keyframes skyanimation3 {
+  50%  {transform: translate(-150px,-400px);}
+  100% {transform: translate(1900px,-300px);}
+}
+
+.sky33 {
+  position: relative;
+  animation: skyanimation33 ease 10s;
+  animation-iteration-count: infinite;
+  width: 150px;
+  height: 150px;
+}
+
+@keyframes skyanimation33 {
+  0%  {transform: translate(-200px,-1050px);}
+  70% {transform: translate(1900px,-1100px);}
+}
+
+.sky333 {
+  position: relative;
+  animation: skyanimation333 ease 10s;
+  animation-iteration-count: infinite;
+  width: 200px;
+  height: 200px;
+}
+
+@keyframes skyanimation333 {
+  0%  {transform: translate(-200px,-1700px);}
+  100% {transform: translate(1900px,-1100px);}
+}
+
+
 .pic1 {
   position: relative;
   top: -350px;
@@ -141,7 +233,7 @@
   }
 
   .pic3 {
-    top: -400px;
+    top: -350px;
     right: -800px;
     height: 500px;
     width: 500px;

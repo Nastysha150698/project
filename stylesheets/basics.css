@@ -32,7 +32,8 @@
   position: relative;
   font-size: 80px;
   text-align: center;
-  padding: 400px 0;
+  margin-top: 20%;
+  /*padding: 400px 0;*/
   z-index: 1;
 }
 
@@ -51,49 +52,49 @@
 
 .text1 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 200px;
   width: 650px;
 }
 
 .text2 {
   text-align: justify;
-  margin-top: 13%;
+  margin-top: 10%;
   margin-left: 53%;
   width: 711px;
 }
 
 .text3 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 200px;
   width: 650px;
 }
 
 .text4 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 53%;
   width: 711px;
 }
 
 .text5 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 200px;
   width: 650px;
 }
 
 .text6 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 53%;
   width: 711px;
 }
 
 .text7 {
   text-align: justify;
-  margin-top: 18%;
+  margin-top: 10%;
   margin-left: 200px;
   width: 650px;
 }
