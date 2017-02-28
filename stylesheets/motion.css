@@ -181,40 +181,49 @@
 
   .pic1 {
     top: -300px;
+    right: -800px;
     height: 300px;
     width: 300px;
   }
 
   .pic2 {
     top: -400px;
+    right: -200px;
     height: 300px;
     width: 300px;
   }
 
   .pic3 {
     top: -350px;
+    right: -800px;
     height: 400px;
     width: 400px;
   }
 
   .pic4 {
+    top: -400px;
+    right: -250px;
     height: 300px;
     width: 300px;
   }
 
   .pic5 {
+    top: -370px;
+    right: -800px;
     height: 300px;
     width: 300px;
   }
 
   .pic6 {
-    top: -280px;
+    top: -300px;
+    right: -200px;
     height: 300px;
     width: 300px;
   }
 
   .pic7 {
     top: -320px;
+    right: -800px;
     height: 300px;
     width: 300px;
   }
