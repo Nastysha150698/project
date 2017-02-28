@@ -97,3 +97,54 @@
   margin-left: 200px;
   width: 650px;
 }
+
+@media screen and (max-width: 1500px) {
+
+  .mainSection {
+    width: 1500px;
+    height: 1000px;
+  }
+
+  .mainSection.left h2,
+  .mainSection.right h2 {
+    font-size: 30px;
+  }
+
+  .mainSection.left p,
+  .mainSection.right p {
+    font-size: 18px;
+  }
+
+  .text1 { width: 450px; }
+
+  .text2 { width: 511px; }
+
+  .text3 { width: 450px; }
+
+  .text4 { width: 511px; }
+
+  .text5 { width: 450px; }
+
+  .text6 { width: 511px; }
+
+  .text7 { width: 450px; }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+  .text1 { width: 400px; }
+
+  .text2 { width: 450px; }
+
+  .text3 { width: 400px; }
+
+  .text4 { width: 450px; }
+
+  .text5 { width: 400px; }
+
+  .text6 { width: 450px; }
+
+  .text7 { width: 400px; }
+
+}
